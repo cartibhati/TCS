@@ -149,5 +149,5 @@ Swapping symmetric elements `nums[i]` and `nums[n - 1 - i]` ensures that element
 | Links | Navigation |
 | :--- | :--- |
 | [🏛️ Repository Dashboard](../../README.md) | [📂 Arrays Index](../../README.md#arrays) |
-| **Prev:** [← Prev: Second Smallest and Second Largest](../003_sec_big_sec_small/README.md) | **Next:** None (Last) |
+| **Prev:** [← Prev: Second Smallest and Second Largest](../003_sec_big_sec_small/README.md) | **Next:** [Next: Count Frequency of Elements →](../005_count_freq/README.md) |
 <!-- navigation -->
