@@ -1,0 +1,26 @@
+# Compiled binaries and executables
+*.exe
+*.out
+*.o
+*.obj
+a.out
+
+# Editor and IDE configurations
+.vscode/
+.idea/
+*.suo
+*.user
+*.userossc
+*.sln
+*.vcxproj
+*.filters
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Local prompt file
+prompt.txt
+
