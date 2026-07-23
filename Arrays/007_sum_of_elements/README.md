@@ -144,5 +144,5 @@ The accumulation invariant holds that at the end of iteration $i$, the variable 
 | Links | Navigation |
 | :--- | :--- |
 | [🏛️ Repository Dashboard](../../README.md) | [📂 Arrays Index](../../README.md#arrays) |
-| **Prev:** [← Prev: Rearrange Array in Increasing-Decreasing Order](../006_reaarange_asc_desc/README.md) | **Next:** None (Last) |
+| **Prev:** [← Prev: Rearrange Array in Increasing-Decreasing Order](../006_reaarange_asc_desc/README.md) | **Next:** [Next: Left Rotate Array by K Elements →](../008_left_rotate/README.md) |
 <!-- navigation -->
