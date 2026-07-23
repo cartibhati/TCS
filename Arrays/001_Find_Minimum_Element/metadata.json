@@ -1,0 +1,10 @@
+{
+  "id": "001",
+  "name": "Find Minimum Element",
+  "topic": "Arrays",
+  "difficulty": "Easy",
+  "tags": ["Arrays", "Linear Scan", "TCS NQT"],
+  "companies": ["TCS", "Accenture", "Wipro", "Capgemini", "Infosys"],
+  "nqt_frequency": "Very Frequent",
+  "confirmed": false
+}
