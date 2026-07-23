@@ -1,0 +1,10 @@
+{
+  "id": "007",
+  "name": "Calculate Sum of Elements",
+  "topic": "Arrays",
+  "difficulty": "Easy",
+  "tags": ["Arrays", "Accumulate", "TCS NQT"],
+  "companies": ["TCS", "Accenture", "Wipro", "Capgemini", "Infosys"],
+  "nqt_frequency": "Very Frequent",
+  "confirmed": false
+}
