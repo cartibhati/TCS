@@ -170,5 +170,5 @@ The logic implements a mathematical induction invariant:
 | Links | Navigation |
 | :--- | :--- |
 | [🏛️ Repository Dashboard](../../README.md) | [📂 Arrays Index](../../README.md#arrays) |
-| **Prev:** [← Prev: Find Largest Number](../002_Largest_number/README.md) | **Next:** None (Last) |
+| **Prev:** [← Prev: Find Largest Number](../002_Largest_number/README.md) | **Next:** [Next: Reverse Array →](../004_reverse_array/README.md) |
 <!-- navigation -->

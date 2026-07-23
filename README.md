@@ -1,7 +1,7 @@
 # TCS NQT Coding Preparation Dashboard
 
 [![Exam: TCS NQT](https://img.shields.io/badge/Exam-TCS%20NQT-blue?style=for-the-badge&logo=github)](https://www.tcs.com)
-[![Solved Problems](https://img.shields.io/badge/Solved-3-success?style=for-the-badge)](https://github.com/cartibhati/TCS)
+[![Solved Problems](https://img.shields.io/badge/Solved-4-success?style=for-the-badge)](https://github.com/cartibhati/TCS)
 [![Language: C++17](https://img.shields.io/badge/Language-C%2B%2B17-orange?style=for-the-badge&logo=c%2B%2B)](https://en.cppreference.com/w/cpp/compiler_support/17)
 [![Profile: Placement Ready](https://img.shields.io/badge/Placement-Ready-red?style=for-the-badge)](https://github.com/cartibhati)
 
@@ -12,9 +12,9 @@ Welcome to my personal **TCS NQT, Prime, and Digital** coding preparation reposi
 ## 🎯 Repository Dashboard
 
 ### 📊 Progress Counters
-- **Total Solved Questions:** `3`
+- **Total Solved Questions:** `4`
 - **Difficulty Distribution:**
-  - 🟢 **Easy:** `3`
+  - 🟢 **Easy:** `4`
   - 🟡 **Medium:** `0`
   - 🔴 **Hard:** `0`
 
@@ -37,7 +37,7 @@ This preparation focuses on patterns most commonly tested by TCS (Ninja/Digital/
 ---
 
 ## 📚 Table of Contents
-- [📂 Arrays (3)](#arrays)
+- [📂 Arrays (4)](#arrays)
 
 ---
 
@@ -48,6 +48,7 @@ This preparation focuses on patterns most commonly tested by TCS (Ninja/Digital/
 | 001 | [Find Minimum Element](Arrays/001_Find_Minimum_Element/README.md) | 🟢 Easy | Very Frequent | `TCS, Accenture, Wipro...` | [C++17](Arrays/001_Find_Minimum_Element/solution.cpp) |
 | 002 | [Find Largest Number](Arrays/002_Largest_number/README.md) | 🟢 Easy | Very Frequent | `TCS, Accenture, Wipro...` | [C++17](Arrays/002_Largest_number/solution.cpp) |
 | 003 | [Second Smallest and Second Largest](Arrays/003_sec_big_sec_small/README.md) | 🟢 Easy | Very Frequent | `TCS, Accenture, Wipro...` | [C++17](Arrays/003_sec_big_sec_small/solution.cpp) |
+| 004 | [Reverse Array](Arrays/004_reverse_array/README.md) | 🟢 Easy | Very Frequent | `TCS, Accenture, Wipro...` | [C++17](Arrays/004_reverse_array/solution.cpp) |
 
 
 ---
