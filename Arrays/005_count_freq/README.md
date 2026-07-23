@@ -149,5 +149,5 @@ The hash map behaves as an associative array. On `f[x]++`, if key `x` does not e
 | Links | Navigation |
 | :--- | :--- |
 | [🏛️ Repository Dashboard](../../README.md) | [📂 Arrays Index](../../README.md#arrays) |
-| **Prev:** [← Prev: Reverse Array](../004_reverse_array/README.md) | **Next:** None (Last) |
+| **Prev:** [← Prev: Reverse Array](../004_reverse_array/README.md) | **Next:** [Next: Rearrange Array in Increasing-Decreasing Order →](../006_reaarange_asc_desc/README.md) |
 <!-- navigation -->
