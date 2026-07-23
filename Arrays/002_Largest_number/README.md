@@ -149,5 +149,5 @@ Because the array is unsorted, any element could potentially be the maximum. The
 | Links | Navigation |
 | :--- | :--- |
 | [🏛️ Repository Dashboard](../../README.md) | [📂 Arrays Index](../../README.md#arrays) |
-| **Prev:** [← Prev: Find Minimum Element](../001_Find_Minimum_Element/README.md) | **Next:** None (Last) |
+| **Prev:** [← Prev: Find Minimum Element](../001_Find_Minimum_Element/README.md) | **Next:** [Next: Second Smallest and Second Largest →](../003_sec_big_sec_small/README.md) |
 <!-- navigation -->
