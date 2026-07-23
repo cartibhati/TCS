@@ -1,7 +1,7 @@
 # TCS NQT Coding Preparation Dashboard
 
 [![Exam: TCS NQT](https://img.shields.io/badge/Exam-TCS%20NQT-blue?style=for-the-badge&logo=github)](https://www.tcs.com)
-[![Solved Problems](https://img.shields.io/badge/Solved-6-success?style=for-the-badge)](https://github.com/cartibhati/TCS)
+[![Solved Problems](https://img.shields.io/badge/Solved-7-success?style=for-the-badge)](https://github.com/cartibhati/TCS)
 [![Language: C++17](https://img.shields.io/badge/Language-C%2B%2B17-orange?style=for-the-badge&logo=c%2B%2B)](https://en.cppreference.com/w/cpp/compiler_support/17)
 [![Profile: Placement Ready](https://img.shields.io/badge/Placement-Ready-red?style=for-the-badge)](https://github.com/cartibhati)
 
@@ -12,9 +12,9 @@ Welcome to my personal **TCS NQT, Prime, and Digital** coding preparation reposi
 ## 🎯 Repository Dashboard
 
 ### 📊 Progress Counters
-- **Total Solved Questions:** `6`
+- **Total Solved Questions:** `7`
 - **Difficulty Distribution:**
-  - 🟢 **Easy:** `6`
+  - 🟢 **Easy:** `7`
   - 🟡 **Medium:** `0`
   - 🔴 **Hard:** `0`
 
@@ -37,7 +37,7 @@ This preparation focuses on patterns most commonly tested by TCS (Ninja/Digital/
 ---
 
 ## 📚 Table of Contents
-- [📂 Arrays (6)](#arrays)
+- [📂 Arrays (7)](#arrays)
 
 ---
 
@@ -51,6 +51,7 @@ This preparation focuses on patterns most commonly tested by TCS (Ninja/Digital/
 | 004 | [Reverse Array](Arrays/004_reverse_array/README.md) | 🟢 Easy | Very Frequent | `TCS, Accenture, Wipro...` | [C++17](Arrays/004_reverse_array/solution.cpp) |
 | 005 | [Count Frequency of Elements](Arrays/005_count_freq/README.md) | 🟢 Easy | Very Frequent | `TCS, Accenture, Wipro...` | [C++17](Arrays/005_count_freq/solution.cpp) |
 | 006 | [Rearrange Array in Increasing-Decreasing Order](Arrays/006_reaarange_asc_desc/README.md) | 🟢 Easy | Very Frequent | `TCS, Accenture, Wipro...` | [C++17](Arrays/006_reaarange_asc_desc/solution.cpp) |
+| 007 | [Calculate Sum of Elements](Arrays/007_sum_of_elements/README.md) | 🟢 Easy | Very Frequent | `TCS, Accenture, Wipro...` | [C++17](Arrays/007_sum_of_elements/solution.cpp) |
 
 
 ---

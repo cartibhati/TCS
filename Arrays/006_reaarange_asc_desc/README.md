@@ -140,5 +140,5 @@ Sorting the entire array first ensures all elements are ordered globally. Since 
 | Links | Navigation |
 | :--- | :--- |
 | [🏛️ Repository Dashboard](../../README.md) | [📂 Arrays Index](../../README.md#arrays) |
-| **Prev:** [← Prev: Count Frequency of Elements](../005_count_freq/README.md) | **Next:** None (Last) |
+| **Prev:** [← Prev: Count Frequency of Elements](../005_count_freq/README.md) | **Next:** [Next: Calculate Sum of Elements →](../007_sum_of_elements/README.md) |
 <!-- navigation -->
