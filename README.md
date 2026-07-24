@@ -1,7 +1,7 @@
 # TCS NQT Coding Preparation Dashboard
 
 [![Exam: TCS NQT](https://img.shields.io/badge/Exam-TCS%20NQT-blue?style=for-the-badge&logo=github)](https://www.tcs.com)
-[![Solved Problems](https://img.shields.io/badge/Solved-12-success?style=for-the-badge)](https://github.com/cartibhati/TCS)
+[![Solved Problems](https://img.shields.io/badge/Solved-13-success?style=for-the-badge)](https://github.com/cartibhati/TCS)
 [![Language: C++17](https://img.shields.io/badge/Language-C%2B%2B17-orange?style=for-the-badge&logo=c%2B%2B)](https://en.cppreference.com/w/cpp/compiler_support/17)
 [![Profile: Placement Ready](https://img.shields.io/badge/Placement-Ready-red?style=for-the-badge)](https://github.com/cartibhati)
 
@@ -12,9 +12,9 @@ Welcome to my personal **TCS NQT, Prime, and Digital** coding preparation reposi
 ## 🎯 Repository Dashboard
 
 ### 📊 Progress Counters
-- **Total Solved Questions:** `12`
+- **Total Solved Questions:** `13`
 - **Difficulty Distribution:**
-  - 🟢 **Easy:** `12`
+  - 🟢 **Easy:** `13`
   - 🟡 **Medium:** `0`
   - 🔴 **Hard:** `0`
 
@@ -37,7 +37,7 @@ This preparation focuses on patterns most commonly tested by TCS (Ninja/Digital/
 ---
 
 ## 📚 Table of Contents
-- [📂 Arrays (12)](#arrays)
+- [📂 Arrays (13)](#arrays)
 
 ---
 
@@ -57,6 +57,7 @@ This preparation focuses on patterns most commonly tested by TCS (Ninja/Digital/
 | 010 | [Find Median of the Array](Arrays/010_Median_of_array/README.md) | 🟢 Easy | Very Frequent | `TCS, Accenture, Wipro...` | [C++17](Arrays/010_Median_of_array/solution.cpp) |
 | 011 | [Remove Duplicates from Sorted Array](Arrays/011_remove_dup_in_sorted/README.md) | 🟢 Easy | Very Frequent | `TCS, Accenture, Wipro...` | [C++17](Arrays/011_remove_dup_in_sorted/solution.cpp) |
 | 012 | [Remove Duplicates from Unsorted Array](Arrays/012_remove_dup_unsorted_array/README.md) | 🟢 Easy | Very Frequent | `TCS, Accenture, Wipro...` | [C++17](Arrays/012_remove_dup_unsorted_array/solution.cpp) |
+| 013 | [Adding Elements in an Array](Arrays/013_Adding_elements_in_array/README.md) | 🟢 Easy | Very Frequent | `TCS, Accenture, Wipro...` | [C++17](Arrays/013_Adding_elements_in_array/solution.cpp) |
 
 
 ---

@@ -137,5 +137,5 @@ The hash set serves as a perfect memory of all elements visited. Since search an
 | Links | Navigation |
 | :--- | :--- |
 | [🏛️ Repository Dashboard](../../README.md) | [📂 Arrays Index](../../README.md#arrays) |
-| **Prev:** [← Prev: Remove Duplicates from Sorted Array](../011_remove_dup_in_sorted/README.md) | **Next:** None (Last) |
+| **Prev:** [← Prev: Remove Duplicates from Sorted Array](../011_remove_dup_in_sorted/README.md) | **Next:** [Next: Adding Elements in an Array →](../013_Adding_elements_in_array/README.md) |
 | <!-- navigation -->
