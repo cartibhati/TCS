@@ -1,0 +1,10 @@
+{
+  "id": "014",
+  "name": "Find Repeating Elements in an Array",
+  "topic": "Arrays",
+  "difficulty": "Easy",
+  "tags": ["Arrays", "Hashing", "Hash Map", "Frequency Count", "TCS NQT"],
+  "companies": ["TCS", "Accenture", "Wipro", "Capgemini", "Infosys"],
+  "nqt_frequency": "Very Frequent",
+  "confirmed": false
+}

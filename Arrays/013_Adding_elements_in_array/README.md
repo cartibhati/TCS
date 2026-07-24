@@ -145,5 +145,5 @@ Under the hood, C++ `std::vector` is a contiguous block of memory. When we inser
 | Links | Navigation |
 | :--- | :--- |
 | [🏛️ Repository Dashboard](../../README.md) | [📂 Arrays Index](../../README.md#arrays) |
-| **Prev:** [← Prev: Remove Duplicates from Unsorted Array](../012_remove_dup_unsorted_array/README.md) | **Next:** None (Last) |
+| **Prev:** [← Prev: Remove Duplicates from Unsorted Array](../012_remove_dup_unsorted_array/README.md) | **Next:** [Next: Find Repeating Elements in an Array →](../014_repeating_elements/README.md) |
 | <!-- navigation -->
