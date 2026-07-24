@@ -139,5 +139,5 @@ A frequency map correctly stores the exact occurrences of each element in the ar
 | Links | Navigation |
 | :--- | :--- |
 | [🏛️ Repository Dashboard](../../README.md) | [📂 Arrays Index](../../README.md#arrays) |
-| **Prev:** [← Prev: Adding Elements in an Array](../013_Adding_elements_in_array/README.md) | **Next:** None (Last) |
+| **Prev:** [← Prev: Adding Elements in an Array](../013_Adding_elements_in_array/README.md) | **Next:** [Next: Find Non-Repeating Elements in an Array →](../015_Non_repeating_character/README.md) |
 | <!-- navigation -->
