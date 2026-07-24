@@ -1,7 +1,7 @@
 # TCS NQT Coding Preparation Dashboard
 
 [![Exam: TCS NQT](https://img.shields.io/badge/Exam-TCS%20NQT-blue?style=for-the-badge&logo=github)](https://www.tcs.com)
-[![Solved Problems](https://img.shields.io/badge/Solved-9-success?style=for-the-badge)](https://github.com/cartibhati/TCS)
+[![Solved Problems](https://img.shields.io/badge/Solved-10-success?style=for-the-badge)](https://github.com/cartibhati/TCS)
 [![Language: C++17](https://img.shields.io/badge/Language-C%2B%2B17-orange?style=for-the-badge&logo=c%2B%2B)](https://en.cppreference.com/w/cpp/compiler_support/17)
 [![Profile: Placement Ready](https://img.shields.io/badge/Placement-Ready-red?style=for-the-badge)](https://github.com/cartibhati)
 
@@ -12,9 +12,9 @@ Welcome to my personal **TCS NQT, Prime, and Digital** coding preparation reposi
 ## 🎯 Repository Dashboard
 
 ### 📊 Progress Counters
-- **Total Solved Questions:** `9`
+- **Total Solved Questions:** `10`
 - **Difficulty Distribution:**
-  - 🟢 **Easy:** `9`
+  - 🟢 **Easy:** `10`
   - 🟡 **Medium:** `0`
   - 🔴 **Hard:** `0`
 
@@ -37,7 +37,7 @@ This preparation focuses on patterns most commonly tested by TCS (Ninja/Digital/
 ---
 
 ## 📚 Table of Contents
-- [📂 Arrays (9)](#arrays)
+- [📂 Arrays (10)](#arrays)
 
 ---
 
@@ -54,6 +54,7 @@ This preparation focuses on patterns most commonly tested by TCS (Ninja/Digital/
 | 007 | [Calculate Sum of Elements](Arrays/007_sum_of_elements/README.md) | 🟢 Easy | Very Frequent | `TCS, Accenture, Wipro...` | [C++17](Arrays/007_sum_of_elements/solution.cpp) |
 | 008 | [Left Rotate Array by K Elements](Arrays/008_left_rotate/README.md) | 🟢 Easy | Very Frequent | `TCS, Accenture, Wipro...` | [C++17](Arrays/008_left_rotate/solution.cpp) |
 | 009 | [Average of all Elements](Arrays/009_Avg_of_all_elements/README.md) | 🟢 Easy | Very Frequent | `TCS, Accenture, Wipro...` | [C++17](Arrays/009_Avg_of_all_elements/solution.cpp) |
+| 010 | [Find Median of the Array](Arrays/010_Median_of_array/README.md) | 🟢 Easy | Very Frequent | `TCS, Accenture, Wipro...` | [C++17](Arrays/010_Median_of_array/solution.cpp) |
 
 
 ---
