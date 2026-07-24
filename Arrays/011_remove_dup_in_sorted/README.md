@@ -147,5 +147,5 @@ Because the array is sorted, duplicates are grouped sequentially. The pointer `i
 | Links | Navigation |
 | :--- | :--- |
 | [🏛️ Repository Dashboard](../../README.md) | [📂 Arrays Index](../../README.md#arrays) |
-| **Prev:** [← Prev: Find Median of the Array](../010_Median_of_array/README.md) | **Next:** None (Last) |
+| **Prev:** [← Prev: Find Median of the Array](../010_Median_of_array/README.md) | **Next:** [Next: Remove Duplicates from Unsorted Array →](../012_remove_dup_unsorted_array/README.md) |
 | <!-- navigation -->
