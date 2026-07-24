@@ -148,5 +148,5 @@ Since $(X^T)^T = X$, reversing the partitioned parts and then reversing the whol
 | Links | Navigation |
 | :--- | :--- |
 | [🏛️ Repository Dashboard](../../README.md) | [📂 Arrays Index](../../README.md#arrays) |
-| **Prev:** [← Prev: Calculate Sum of Elements](../007_sum_of_elements/README.md) | **Next:** None (Last) |
+| **Prev:** [← Prev: Calculate Sum of Elements](../007_sum_of_elements/README.md) | **Next:** [Next: Average of all Elements →](../009_Avg_of_all_elements/README.md) |
 <!-- navigation -->
