@@ -145,5 +145,5 @@ The frequency map accurately registers the number of times each integer appears 
 | Links | Navigation |
 | :--- | :--- |
 | [🏛️ Repository Dashboard](../../README.md) | [📂 Arrays Index](../../README.md#arrays) |
-| **Prev:** [← Prev: Find Repeating Elements in an Array](../014_repeating_elements/README.md) | **Next:** None (Last) |
-| <!-- navigation -->
+| **Prev:** [← Prev: Find Repeating Elements in an Array](../014_repeating_elements/README.md) | **Next:** [Next: Find Symmetric Pairs in an Array →](../016_Find_symmetric_)pair/README.md) |
+<!-- navigation -->

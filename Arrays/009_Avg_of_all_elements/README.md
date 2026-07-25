@@ -138,4 +138,4 @@ The arithmetic mean is mathematically defined as the sum of all elements divided
 | :--- | :--- |
 | [🏛️ Repository Dashboard](../../README.md) | [📂 Arrays Index](../../README.md#arrays) |
 | **Prev:** [← Prev: Left Rotate Array by K Elements](../008_left_rotate/README.md) | **Next:** [Next: Find Median of the Array →](../010_Median_of_array/README.md) |
-| <!-- navigation -->
+<!-- navigation -->

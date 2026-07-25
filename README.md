@@ -1,7 +1,7 @@
 # TCS NQT Coding Preparation Dashboard
 
 [![Exam: TCS NQT](https://img.shields.io/badge/Exam-TCS%20NQT-blue?style=for-the-badge&logo=github)](https://www.tcs.com)
-[![Solved Problems](https://img.shields.io/badge/Solved-15-success?style=for-the-badge)](https://github.com/cartibhati/TCS)
+[![Solved Problems](https://img.shields.io/badge/Solved-16-success?style=for-the-badge)](https://github.com/cartibhati/TCS)
 [![Language: C++17](https://img.shields.io/badge/Language-C%2B%2B17-orange?style=for-the-badge&logo=c%2B%2B)](https://en.cppreference.com/w/cpp/compiler_support/17)
 [![Profile: Placement Ready](https://img.shields.io/badge/Placement-Ready-red?style=for-the-badge)](https://github.com/cartibhati)
 
@@ -12,9 +12,9 @@ Welcome to my personal **TCS NQT, Prime, and Digital** coding preparation reposi
 ## 🎯 Repository Dashboard
 
 ### 📊 Progress Counters
-- **Total Solved Questions:** `15`
+- **Total Solved Questions:** `16`
 - **Difficulty Distribution:**
-  - 🟢 **Easy:** `15`
+  - 🟢 **Easy:** `16`
   - 🟡 **Medium:** `0`
   - 🔴 **Hard:** `0`
 
@@ -37,7 +37,7 @@ This preparation focuses on patterns most commonly tested by TCS (Ninja/Digital/
 ---
 
 ## 📚 Table of Contents
-- [📂 Arrays (15)](#arrays)
+- [📂 Arrays (16)](#arrays)
 
 ---
 
@@ -60,6 +60,7 @@ This preparation focuses on patterns most commonly tested by TCS (Ninja/Digital/
 | 013 | [Adding Elements in an Array](Arrays/013_Adding_elements_in_array/README.md) | 🟢 Easy | Very Frequent | `TCS, Accenture, Wipro...` | [C++17](Arrays/013_Adding_elements_in_array/solution.cpp) |
 | 014 | [Find Repeating Elements in an Array](Arrays/014_repeating_elements/README.md) | 🟢 Easy | Very Frequent | `TCS, Accenture, Wipro...` | [C++17](Arrays/014_repeating_elements/solution.cpp) |
 | 015 | [Find Non-Repeating Elements in an Array](Arrays/015_Non_repeating_character/README.md) | 🟢 Easy | Very Frequent | `TCS, Accenture, Wipro...` | [C++17](Arrays/015_Non_repeating_character/solution.cpp) |
+| 016 | [Find Symmetric Pairs in an Array](Arrays/016_Find_symmetric_)pair/README.md) | 🟢 Easy | Frequent | `TCS, Accenture, Wipro...` | [C++17](Arrays/016_Find_symmetric_)pair/solution.cpp) |
 
 
 ---
