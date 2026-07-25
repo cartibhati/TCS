@@ -126,5 +126,5 @@ By mapping `first -> second` for every visited pair, we keep track of all potent
 | Links | Navigation |
 | :--- | :--- |
 | [🏛️ Repository Dashboard](../../README.md) | [📂 Arrays Index](../../README.md#arrays) |
-| **Prev:** [← Prev: Find Non-Repeating Elements in an Array](../015_Non_repeating_character/README.md) | **Next:** None (Last) |
+| **Prev:** [← Prev: Find Non-Repeating Elements in an Array](../015_Non_repeating_character/README.md) | **Next:** [Next: Maximum Product Subarray →](../017_max_product_subarray/README.md) |
 <!-- navigation -->
