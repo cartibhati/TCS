@@ -147,5 +147,5 @@ This covers all possible transitions (positive $\rightarrow$ positive, negative 
 | Links | Navigation |
 | :--- | :--- |
 | [🏛️ Repository Dashboard](../../README.md) | [📂 Arrays Index](../../README.md#arrays) |
-| **Prev:** [← Prev: Find Symmetric Pairs in an Array](../016_Find_symmetric_)pair/README.md) | **Next:** None (Last) |
+| **Prev:** [← Prev: Find Symmetric Pairs in an Array](../016_Find_symmetric_)pair/README.md) | **Next:** [Next: Replace Elements by their Rank →](../018_replace_elements/README.md) |
 <!-- navigation -->

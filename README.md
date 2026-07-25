@@ -1,7 +1,7 @@
 # TCS NQT Coding Preparation Dashboard
 
 [![Exam: TCS NQT](https://img.shields.io/badge/Exam-TCS%20NQT-blue?style=for-the-badge&logo=github)](https://www.tcs.com)
-[![Solved Problems](https://img.shields.io/badge/Solved-17-success?style=for-the-badge)](https://github.com/cartibhati/TCS)
+[![Solved Problems](https://img.shields.io/badge/Solved-18-success?style=for-the-badge)](https://github.com/cartibhati/TCS)
 [![Language: C++17](https://img.shields.io/badge/Language-C%2B%2B17-orange?style=for-the-badge&logo=c%2B%2B)](https://en.cppreference.com/w/cpp/compiler_support/17)
 [![Profile: Placement Ready](https://img.shields.io/badge/Placement-Ready-red?style=for-the-badge)](https://github.com/cartibhati)
 
@@ -12,9 +12,9 @@ Welcome to my personal **TCS NQT, Prime, and Digital** coding preparation reposi
 ## 🎯 Repository Dashboard
 
 ### 📊 Progress Counters
-- **Total Solved Questions:** `17`
+- **Total Solved Questions:** `18`
 - **Difficulty Distribution:**
-  - 🟢 **Easy:** `16`
+  - 🟢 **Easy:** `17`
   - 🟡 **Medium:** `1`
   - 🔴 **Hard:** `0`
 
@@ -37,7 +37,7 @@ This preparation focuses on patterns most commonly tested by TCS (Ninja/Digital/
 ---
 
 ## 📚 Table of Contents
-- [📂 Arrays (17)](#arrays)
+- [📂 Arrays (18)](#arrays)
 
 ---
 
@@ -62,6 +62,7 @@ This preparation focuses on patterns most commonly tested by TCS (Ninja/Digital/
 | 015 | [Find Non-Repeating Elements in an Array](Arrays/015_Non_repeating_character/README.md) | 🟢 Easy | Very Frequent | `TCS, Accenture, Wipro...` | [C++17](Arrays/015_Non_repeating_character/solution.cpp) |
 | 016 | [Find Symmetric Pairs in an Array](Arrays/016_Find_symmetric_)pair/README.md) | 🟢 Easy | Frequent | `TCS, Accenture, Wipro...` | [C++17](Arrays/016_Find_symmetric_)pair/solution.cpp) |
 | 017 | [Maximum Product Subarray](Arrays/017_max_product_subarray/README.md) | 🟡 Medium | Very Frequent | `TCS, Accenture, Wipro...` | [C++17](Arrays/017_max_product_subarray/solution.cpp) |
+| 018 | [Replace Elements by their Rank](Arrays/018_replace_elements/README.md) | 🟢 Easy | Very Frequent | `TCS, Accenture, Wipro...` | [C++17](Arrays/018_replace_elements/solution.cpp) |
 
 
 ---
