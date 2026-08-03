@@ -16,4 +16,4 @@ int smallest(vector<int>&nums){
 int main() {
     vector<int>nums={4,3,5,67,2,78,8};
     cout<<smallest(nums);
-}
+} 
