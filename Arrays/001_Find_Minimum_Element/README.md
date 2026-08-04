@@ -1,4 +1,4 @@
-# Find Minimum Element
+# Find Minimum Element 
 
 ## Problem Metadata
 *   **Difficulty:** Easy
