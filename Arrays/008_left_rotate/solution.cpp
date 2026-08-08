@@ -1,6 +1,6 @@
 // Online C++ compiler to run C++ program online
 #include <iostream>
-#include <vector>
+#include <vector> 
 #include <algorithm>
 using namespace std;
 
