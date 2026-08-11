@@ -5,7 +5,7 @@
 using namespace std;
 
 void replaceElements(vector<int>& nums) {
-    vector<int> temp = nums;
+    vector<int> temp = nums; 
 
     sort(temp.begin(), temp.end());
 
